@@ -1,2 +1,0 @@
-# nostradamus
-Created with CodeSandbox
